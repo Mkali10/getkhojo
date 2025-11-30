@@ -5,7 +5,7 @@ sudo apt install -y nginx git nodejs npm
 sudo npm install -g pm2
 
 cd /home/ubuntu
-git clone https://github.com/YOUR_GITHUB/getkhojo.git
+git clone https://github.com/Mkali10/getkhojo.git
 
 cd getkhojo/backend
 npm install
